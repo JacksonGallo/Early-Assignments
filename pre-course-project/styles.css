@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+}
+
+body {
+    background-image: url('/beach.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button-primary{
+    color: white;
+    background-color: green;
+    height: 60px;
+    width: 60px;
+    margin: 60px;
+    display: block;
+}
+
+.button-secondary{
+    background-color: red;
+    height: 60px;
+    width: 60px;
+    margin: 60px;
+    display: block;
+}
